@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07AF8032-FBBB-4D79-8108-257A180765B0}|PracticumServer\\PracticumServer.API.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\practicumserver\\practicumserver\\controllers\\employee_rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AF8032-FBBB-4D79-8108-257A180765B0}|PracticumServer\\PracticumServer.API.csproj|solutionrelative:practicumserver\\controllers\\employee_rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8197E962-A294-4077-8E25-5EBB2926AC34}|PracticumServer.Core\\PracticumServer.Core.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\practicumserver\\practicumserver.core\\entities\\employee_role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8197E962-A294-4077-8E25-5EBB2926AC34}|PracticumServer.Core\\PracticumServer.Core.csproj|solutionrelative:practicumserver.core\\entities\\employee_role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AF8032-FBBB-4D79-8108-257A180765B0}|PracticumServer\\PracticumServer.API.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\practicumserver\\practicumserver\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AF8032-FBBB-4D79-8108-257A180765B0}|PracticumServer\\PracticumServer.API.csproj|solutionrelative:practicumserver\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627BC5E8-16F3-4A40-ADDE-627C8E52933C}|PracticumServer.Data\\PracticumServer.Data.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\practicumserver\\practicumserver.data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627BC5E8-16F3-4A40-ADDE-627C8E52933C}|PracticumServer.Data\\PracticumServer.Data.csproj|solutionrelative:practicumserver.data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8197E962-A294-4077-8E25-5EBB2926AC34}|PracticumServer.Core\\PracticumServer.Core.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\practicumserver\\practicumserver.core\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8197E962-A294-4077-8E25-5EBB2926AC34}|PracticumServer.Core\\PracticumServer.Core.csproj|solutionrelative:practicumserver.core\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8197E962-A294-4077-8E25-5EBB2926AC34}|PracticumServer.Core\\PracticumServer.Core.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\practicumserver\\practicumserver.core\\dtos\\employee_roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8197E962-A294-4077-8E25-5EBB2926AC34}|PracticumServer.Core\\PracticumServer.Core.csproj|solutionrelative:practicumserver.core\\dtos\\employee_roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8197E962-A294-4077-8E25-5EBB2926AC34}|PracticumServer.Core\\PracticumServer.Core.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\practicumserver\\practicumserver.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8197E962-A294-4077-8E25-5EBB2926AC34}|PracticumServer.Core\\PracticumServer.Core.csproj|solutionrelative:practicumserver.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627BC5E8-16F3-4A40-ADDE-627C8E52933C}|PracticumServer.Data\\PracticumServer.Data.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\practicumserver\\practicumserver.data\\repositories\\employee_rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627BC5E8-16F3-4A40-ADDE-627C8E52933C}|PracticumServer.Data\\PracticumServer.Data.csproj|solutionrelative:practicumserver.data\\repositories\\employee_rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627BC5E8-16F3-4A40-ADDE-627C8E52933C}|PracticumServer.Data\\PracticumServer.Data.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\practicumserver\\practicumserver.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627BC5E8-16F3-4A40-ADDE-627C8E52933C}|PracticumServer.Data\\PracticumServer.Data.csproj|solutionrelative:practicumserver.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AF8032-FBBB-4D79-8108-257A180765B0}|PracticumServer\\PracticumServer.API.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\practicumserver\\practicumserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07AF8032-FBBB-4D79-8108-257A180765B0}|PracticumServer\\PracticumServer.API.csproj|solutionrelative:practicumserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C56F469-7206-4FD5-B6D9-5E0090A186DA}|PracticumServer.Service\\PracticumServer.Service.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\practicumserver\\practicumserver.service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C56F469-7206-4FD5-B6D9-5E0090A186DA}|PracticumServer.Service\\PracticumServer.Service.csproj|solutionrelative:practicumserver.service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AF8032-FBBB-4D79-8108-257A180765B0}|PracticumServer\\PracticumServer.API.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\practicumserver\\practicumserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AF8032-FBBB-4D79-8108-257A180765B0}|PracticumServer\\PracticumServer.API.csproj|solutionrelative:practicumserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer.Data\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "PracticumServer.Data\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer.Data\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "PracticumServer.Data\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:56:57.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee_RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer\\Controllers\\Employee_RoleController.cs",
+              "RelativeDocumentMoniker": "PracticumServer\\Controllers\\Employee_RoleController.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer\\Controllers\\Employee_RoleController.cs",
+              "RelativeToolTip": "PracticumServer\\Controllers\\Employee_RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:47:09.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer.Core\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "PracticumServer.Core\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer.Core\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "PracticumServer.Core\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:53:32.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee_Role.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer.Core\\Entities\\Employee_Role.cs",
+              "RelativeDocumentMoniker": "PracticumServer.Core\\Entities\\Employee_Role.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer.Core\\Entities\\Employee_Role.cs",
+              "RelativeToolTip": "PracticumServer.Core\\Entities\\Employee_Role.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:08:38.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "PracticumServer\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "PracticumServer\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:52:19.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee_RoleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer.Core\\DTOs\\Employee_RoleDTO.cs",
+              "RelativeDocumentMoniker": "PracticumServer.Core\\DTOs\\Employee_RoleDTO.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer.Core\\DTOs\\Employee_RoleDTO.cs",
+              "RelativeToolTip": "PracticumServer.Core\\DTOs\\Employee_RoleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:53:54.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "PracticumServer.Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer.Data\\DataContext.cs",
+              "RelativeToolTip": "PracticumServer.Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T21:13:54.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer.Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "PracticumServer.Core\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer.Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "PracticumServer.Core\\Entities\\Employee.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:03:32.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee_RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer.Data\\Repositories\\Employee_RoleRepository.cs",
+              "RelativeDocumentMoniker": "PracticumServer.Data\\Repositories\\Employee_RoleRepository.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer.Data\\Repositories\\Employee_RoleRepository.cs",
+              "RelativeToolTip": "PracticumServer.Data\\Repositories\\Employee_RoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:08:53.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer\\appsettings.json",
+              "RelativeDocumentMoniker": "PracticumServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer\\appsettings.json",
+              "RelativeToolTip": "PracticumServer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T21:43:40.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer.Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "PracticumServer.Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer.Service\\EmployeeService.cs",
+              "RelativeToolTip": "PracticumServer.Service\\EmployeeService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAEBVwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T23:12:43.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer\\Program.cs",
+              "RelativeDocumentMoniker": "PracticumServer\\Program.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05DC\u05D4\u05E2\u05DC\u05D0\u05D4\\PracticumServer\\PracticumServer\\Program.cs",
+              "RelativeToolTip": "PracticumServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T21:09:56.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

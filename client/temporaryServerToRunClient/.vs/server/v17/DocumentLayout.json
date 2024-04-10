@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{751A6FE6-6A24-4CC3-8AF5-CDB4D72EBBF6}|server\\webApi.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\client\\servertorunclient\\server\\controllers\\employee_rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751A6FE6-6A24-4CC3-8AF5-CDB4D72EBBF6}|server\\webApi.csproj|solutionrelative:server\\controllers\\employee_rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751A6FE6-6A24-4CC3-8AF5-CDB4D72EBBF6}|server\\webApi.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\client\\servertorunclient\\server\\employee_role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751A6FE6-6A24-4CC3-8AF5-CDB4D72EBBF6}|server\\webApi.csproj|solutionrelative:server\\employee_role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA0DEA3-DD89-4FB4-8633-7C838EF26E44}|employeeDal\\employeeDal.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\client\\servertorunclient\\employeedal\\sqlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA0DEA3-DD89-4FB4-8633-7C838EF26E44}|employeeDal\\employeeDal.csproj|solutionrelative:employeedal\\sqlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751A6FE6-6A24-4CC3-8AF5-CDB4D72EBBF6}|server\\webApi.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\client\\servertorunclient\\server\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751A6FE6-6A24-4CC3-8AF5-CDB4D72EBBF6}|server\\webApi.csproj|solutionrelative:server\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751A6FE6-6A24-4CC3-8AF5-CDB4D72EBBF6}|server\\webApi.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\client\\servertorunclient\\server\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751A6FE6-6A24-4CC3-8AF5-CDB4D72EBBF6}|server\\webApi.csproj|solutionrelative:server\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751A6FE6-6A24-4CC3-8AF5-CDB4D72EBBF6}|server\\webApi.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\client\\servertorunclient\\server\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751A6FE6-6A24-4CC3-8AF5-CDB4D72EBBF6}|server\\webApi.csproj|solutionrelative:server\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751A6FE6-6A24-4CC3-8AF5-CDB4D72EBBF6}|server\\webApi.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\client\\servertorunclient\\server\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751A6FE6-6A24-4CC3-8AF5-CDB4D72EBBF6}|server\\webApi.csproj|solutionrelative:server\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751A6FE6-6A24-4CC3-8AF5-CDB4D72EBBF6}|server\\webApi.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\client\\servertorunclient\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751A6FE6-6A24-4CC3-8AF5-CDB4D72EBBF6}|server\\webApi.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751A6FE6-6A24-4CC3-8AF5-CDB4D72EBBF6}|server\\webApi.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\client\\servertorunclient\\server\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{751A6FE6-6A24-4CC3-8AF5-CDB4D72EBBF6}|server\\webApi.csproj|solutionrelative:server\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751A6FE6-6A24-4CC3-8AF5-CDB4D72EBBF6}|server\\webApi.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\client\\servertorunclient\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{751A6FE6-6A24-4CC3-8AF5-CDB4D72EBBF6}|server\\webApi.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA0DEA3-DD89-4FB4-8633-7C838EF26E44}|employeeDal\\employeeDal.csproj|c:\\users\\hersh\\onedrive\\documents\\practicum\\client\\servertorunclient\\employeedal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA0DEA3-DD89-4FB4-8633-7C838EF26E44}|employeeDal\\employeeDal.csproj|solutionrelative:employeedal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\server\\Role.cs",
+              "RelativeDocumentMoniker": "server\\Role.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\server\\Role.cs",
+              "RelativeToolTip": "server\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:49:57.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\server\\Program.cs",
+              "RelativeDocumentMoniker": "server\\Program.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\server\\Program.cs",
+              "RelativeToolTip": "server\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:40:22.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\server\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "server\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\server\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "server\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:54:42.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee_RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\server\\Controllers\\Employee_RoleController.cs",
+              "RelativeDocumentMoniker": "server\\Controllers\\Employee_RoleController.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\server\\Controllers\\Employee_RoleController.cs",
+              "RelativeToolTip": "server\\Controllers\\Employee_RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:40:22.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee_Role.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\server\\Employee_Role.cs",
+              "RelativeDocumentMoniker": "server\\Employee_Role.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\server\\Employee_Role.cs",
+              "RelativeToolTip": "server\\Employee_Role.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIA7wAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:56:13.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sqlManager.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\employeeDal\\sqlManager.cs",
+              "RelativeDocumentMoniker": "employeeDal\\sqlManager.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\employeeDal\\sqlManager.cs",
+              "RelativeToolTip": "employeeDal\\sqlManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T17:59:10.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "webApi.csproj",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\server\\webApi.csproj",
+              "RelativeDocumentMoniker": "server\\webApi.csproj",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\server\\webApi.csproj",
+              "RelativeToolTip": "server\\webApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T17:49:22.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\server\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "server\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\server\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "server\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:51:24.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\server\\Employee.cs",
+              "RelativeDocumentMoniker": "server\\Employee.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\server\\Employee.cs",
+              "RelativeToolTip": "server\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:40:22.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\server\\appsettings.json",
+              "RelativeDocumentMoniker": "server\\appsettings.json",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\server\\appsettings.json",
+              "RelativeToolTip": "server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-30T17:49:04.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\employeeDal\\Class1.cs",
+              "RelativeDocumentMoniker": "employeeDal\\Class1.cs",
+              "ToolTip": "C:\\Users\\hersh\\OneDrive\\Documents\\Practicum\\client\\serverToRunClient\\employeeDal\\Class1.cs",
+              "RelativeToolTip": "employeeDal\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T17:55:28.364Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

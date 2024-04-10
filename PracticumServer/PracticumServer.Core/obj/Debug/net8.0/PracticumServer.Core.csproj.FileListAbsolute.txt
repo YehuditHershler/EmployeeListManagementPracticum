@@ -1,0 +1,12 @@
+C:\Users\hersh\source\repos\PracticumServer\PracticumServer.Core\obj\Debug\net8.0\PracticumServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hersh\source\repos\PracticumServer\PracticumServer.Core\obj\Debug\net8.0\PracticumServer.Core.AssemblyInfoInputs.cache
+C:\Users\hersh\source\repos\PracticumServer\PracticumServer.Core\obj\Debug\net8.0\PracticumServer.Core.AssemblyInfo.cs
+C:\Users\hersh\source\repos\PracticumServer\PracticumServer.Core\obj\Debug\net8.0\PracticumServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\hersh\source\repos\PracticumServer\PracticumServer.Core\bin\Debug\net8.0\PracticumServer.Core.deps.json
+C:\Users\hersh\source\repos\PracticumServer\PracticumServer.Core\bin\Debug\net8.0\PracticumServer.Core.dll
+C:\Users\hersh\source\repos\PracticumServer\PracticumServer.Core\bin\Debug\net8.0\PracticumServer.Core.pdb
+C:\Users\hersh\source\repos\PracticumServer\PracticumServer.Core\obj\Debug\net8.0\PracticumServer.Core.csproj.AssemblyReference.cache
+C:\Users\hersh\source\repos\PracticumServer\PracticumServer.Core\obj\Debug\net8.0\PracticumServer.Core.dll
+C:\Users\hersh\source\repos\PracticumServer\PracticumServer.Core\obj\Debug\net8.0\refint\PracticumServer.Core.dll
+C:\Users\hersh\source\repos\PracticumServer\PracticumServer.Core\obj\Debug\net8.0\PracticumServer.Core.pdb
+C:\Users\hersh\source\repos\PracticumServer\PracticumServer.Core\obj\Debug\net8.0\ref\PracticumServer.Core.dll
